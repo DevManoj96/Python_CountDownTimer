@@ -19,6 +19,7 @@ A simple yet customizable countdown timer built with Python's `tkinter` GUI tool
 - Python 3.x
 
 No external libraries are needed — only standard Python libraries.
+
 ---
 
 ## 🚀 How to Run
